@@ -1,0 +1,1 @@
+- Use hassio-addons/workflows/addon-deploy again

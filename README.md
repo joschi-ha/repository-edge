@@ -35,6 +35,19 @@ https://github.com/joschi-ha/repository-edge
 
 ## Add-ons provided by this repository
 
+### &#10003; [CUPS][addon-cups-airprint]
+
+![Latest Version][cups-airprint-version-shield]
+![Supports armhf Architecture][cups-airprint-armhf-shield]
+![Supports armv7 Architecture][cups-airprint-armv7-shield]
+![Supports aarch64 Architecture][cups-airprint-aarch64-shield]
+![Supports amd64 Architecture][cups-airprint-amd64-shield]
+![Supports i386 Architecture][cups-airprint-i386-shield]
+
+A CUPS print server with working AirPrint
+
+[:books: CUPS add-on documentation][addon-doc-cups-airprint]
+
 ## Releases
 
 Releases are based on [Semantic Versioning][semver], and use the format
@@ -60,6 +73,7 @@ You could also open an issue here on GitHub. Note, we use a separate
 GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
+- [Open an issue for the add-on: CUPS][cups-airprint-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
@@ -97,6 +111,15 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+[addon-cups-airprint]: https://github.com/joschi-ha/addon-cups-airprint/tree/174b27c
+[addon-doc-cups-airprint]: https://github.com/joschi-ha/addon-cups-airprint/blob/174b27c/README.md
+[cups-airprint-issue]: https://github.com/joschi-ha/addon-cups-airprint/issues
+[cups-airprint-version-shield]: https://img.shields.io/badge/version-174b27c-blue.svg
+[cups-airprint-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[cups-airprint-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[cups-airprint-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[cups-airprint-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[cups-airprint-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [awesome-shield]: https://img.shields.io/badge/awesome%3F-yes-brightgreen.svg
 [awesome]: https://awesome-ha.com
 [discord-ha]: https://discord.gg/c5DvZ4e
