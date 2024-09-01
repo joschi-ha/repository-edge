@@ -1,5 +1,5 @@
 name: CUPS
-version: 174b27c
+version: 67414ec
 slug: cups-airprint
 description: A CUPS print server with working AirPrint
 url: https://github.com/joschi/homeassistant-addons
