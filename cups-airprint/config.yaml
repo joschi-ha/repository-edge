@@ -1,5 +1,5 @@
 name: CUPS
-version: fedabac
+version: 07bc911
 slug: cups-airprint
 description: A CUPS print server with working AirPrint
 url: https://github.com/joschi/homeassistant-addons
