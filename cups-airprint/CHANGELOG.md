@@ -1,1 +1,3 @@
-- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.6.3 (#13)
+- ⬆️ Update debian_12/avahi-daemon to v0.8-10+deb12u1 (#14)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
