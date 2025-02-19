@@ -1,0 +1,18 @@
+name: SANE
+version: 352d073
+slug: sane-scanner
+description: A SANE server for wireless scanning
+url: https://github.com/joschi-ha/addon-sane
+arch:
+- amd64
+- aarch64
+- armhf
+- armv7
+- i386
+usb: true
+init: false
+homeassistant_api: true
+host_network: true
+map:
+- addon_config:rw
+image: ghcr.io/joschi-ha/sane-scanner/{arch}

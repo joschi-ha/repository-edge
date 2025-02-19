@@ -48,6 +48,19 @@ A CUPS print server with working AirPrint
 
 [:books: CUPS add-on documentation][addon-doc-cups-airprint]
 
+### &#10003; [SANE][addon-sane-scanner]
+
+![Latest Version][sane-scanner-version-shield]
+![Supports armhf Architecture][sane-scanner-armhf-shield]
+![Supports armv7 Architecture][sane-scanner-armv7-shield]
+![Supports aarch64 Architecture][sane-scanner-aarch64-shield]
+![Supports amd64 Architecture][sane-scanner-amd64-shield]
+![Supports i386 Architecture][sane-scanner-i386-shield]
+
+A SANE server for wireless scanning
+
+[:books: SANE add-on documentation][addon-doc-sane-scanner]
+
 ## Releases
 
 Releases are based on [Semantic Versioning][semver], and use the format
@@ -74,6 +87,7 @@ GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
 - [Open an issue for the add-on: CUPS][cups-airprint-issue]
+- [Open an issue for the add-on: SANE][sane-scanner-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
@@ -120,6 +134,15 @@ SOFTWARE.
 [cups-airprint-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [cups-airprint-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [cups-airprint-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[addon-sane-scanner]: https://github.com/joschi-ha/addon-sane/tree/352d073
+[addon-doc-sane-scanner]: https://github.com/joschi-ha/addon-sane/blob/352d073/README.md
+[sane-scanner-issue]: https://github.com/joschi-ha/addon-sane/issues
+[sane-scanner-version-shield]: https://img.shields.io/badge/version-352d073-blue.svg
+[sane-scanner-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
+[sane-scanner-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
+[sane-scanner-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[sane-scanner-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
+[sane-scanner-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
 [awesome-shield]: https://img.shields.io/badge/awesome%3F-yes-brightgreen.svg
 [awesome]: https://awesome-ha.com
 [discord-ha]: https://discord.gg/c5DvZ4e
