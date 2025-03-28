@@ -134,10 +134,10 @@ SOFTWARE.
 [cups-airprint-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [cups-airprint-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [cups-airprint-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-sane-scanner]: https://github.com/joschi-ha/addon-sane/tree/352d073
-[addon-doc-sane-scanner]: https://github.com/joschi-ha/addon-sane/blob/352d073/README.md
+[addon-sane-scanner]: https://github.com/joschi-ha/addon-sane/tree/2a5a217
+[addon-doc-sane-scanner]: https://github.com/joschi-ha/addon-sane/blob/2a5a217/README.md
 [sane-scanner-issue]: https://github.com/joschi-ha/addon-sane/issues
-[sane-scanner-version-shield]: https://img.shields.io/badge/version-352d073-blue.svg
+[sane-scanner-version-shield]: https://img.shields.io/badge/version-2a5a217-blue.svg
 [sane-scanner-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [sane-scanner-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [sane-scanner-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
