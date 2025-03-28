@@ -1,3 +1,3 @@
-- ⬆️ Update debian_12/glibc to v2.36-9+deb12u10 (#17)
+- ⬆️ Update ghcr.io/hassio-addons/debian-base Docker tag to v7.8.0 (#18)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>

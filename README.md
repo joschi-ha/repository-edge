@@ -125,10 +125,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-cups-airprint]: https://github.com/joschi-ha/addon-cups-airprint/tree/cbb4c66
-[addon-doc-cups-airprint]: https://github.com/joschi-ha/addon-cups-airprint/blob/cbb4c66/README.md
+[addon-cups-airprint]: https://github.com/joschi-ha/addon-cups-airprint/tree/7eeec0e
+[addon-doc-cups-airprint]: https://github.com/joschi-ha/addon-cups-airprint/blob/7eeec0e/README.md
 [cups-airprint-issue]: https://github.com/joschi-ha/addon-cups-airprint/issues
-[cups-airprint-version-shield]: https://img.shields.io/badge/version-cbb4c66-blue.svg
+[cups-airprint-version-shield]: https://img.shields.io/badge/version-7eeec0e-blue.svg
 [cups-airprint-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [cups-airprint-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [cups-airprint-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg

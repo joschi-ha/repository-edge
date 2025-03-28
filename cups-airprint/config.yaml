@@ -1,5 +1,5 @@
 name: CUPS
-version: cbb4c66
+version: 7eeec0e
 slug: cups-airprint
 description: A CUPS print server with working AirPrint
 url: https://github.com/joschi-ha/addon-cups-airprint
