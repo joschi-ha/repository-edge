@@ -1,5 +1,5 @@
 name: SANE
-version: bb9e28a
+version: 78f3160
 slug: sane-scanner
 description: A SANE server for wireless scanning
 url: https://github.com/joschi-ha/addon-sane
